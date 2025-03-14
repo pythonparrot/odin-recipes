@@ -1,0 +1,51 @@
+.home-link,
+.index h1{
+    background-color: coral;
+    color: white;
+    font-family: "Inter", sans-serif;
+}
+
+h1,
+h3 {
+    text-align: center;
+    font-family: "Inter", sans-serif;
+}
+
+.recipe-link {
+    font-family: "Barlow", sans-serif;
+    color: black;
+    font-size: x-large;
+}
+
+.home-link {
+    font-size: larger;
+}
+
+.image {
+    width: 400px;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+
+}
+
+.description {
+    text-align: center;
+}
+
+.text,
+ol,
+ul {
+    font-family: "Barlow", sans-serif;
+    font-size: x-large;
+}
+
+.text{
+    text-align: center;
+}
+
+ol,
+ul {
+    list-style-position: inside;
+    text-align: center;
+}
